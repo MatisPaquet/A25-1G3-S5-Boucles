@@ -43,7 +43,25 @@ def environnement_optimal(temp, poussiere, humidite):
 
 
 if __name__ == "__main__":
+    #TODO : Créer 3 listes
+    liste_temperature = [temp]
+    liste_poussiere = [poussiere]
+    liste_humidite = [humidite]
+
+    #TODO : Pour 3 ordinateur
+
+        #TODO : Demander temp, poussière, humidite
+        #TODO : Mettres les 3 valeurs dans leurs listes
+
     temp = float(input("Entrez la température: "))
     poussiere = input("Entrez le niveau de poussière: ")
     humidite = float(input("Entrez l'humidité: "))
+
+    # TODO : Pour les 3 ordi
+        #TODO : utiliser la fonction et afficher le résultat
     print(environnement_optimal(temp, poussiere, humidite))
+
+
+
+
+
