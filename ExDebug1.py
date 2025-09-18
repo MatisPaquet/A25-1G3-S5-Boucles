@@ -49,7 +49,7 @@ if __name__ == "__main__":
     liste_humidite = [humidite]
 
     #TODO : Pour 3 ordinateur
-
+def
         #TODO : Demander temp, poussière, humidite
         #TODO : Mettres les 3 valeurs dans leurs listes
 
