@@ -44,12 +44,12 @@ def environnement_optimal(temp, poussiere, humidite):
 
 if __name__ == "__main__":
     #TODO : Créer 3 listes
-    liste_temperature = [temp]
-    liste_poussiere = [poussiere]
-    liste_humidite = [humidite]
+  #  liste_temperature = [temp]
+  #  liste_poussiere = [poussiere]
+   # liste_humidite = [humidite]
 
     #TODO : Pour 3 ordinateur
-def
+#def
         #TODO : Demander temp, poussière, humidite
         #TODO : Mettres les 3 valeurs dans leurs listes
 
